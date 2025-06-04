@@ -9,7 +9,7 @@ import NotificationPage from "./pages/NotificationPage.jsx";
 import OnBoardingPage from "./pages/OnboardingPage.jsx";
 import SignUpPage from "./pages/SignUpPage.jsx";
 
-import PageLoader from "./components/pageLoader.jsx";
+import PageLoader from "./components/PageLoader.jsx";
 import useAuthUser from "./hooks/useAuthUser.js";
 import Layout from "./components/Layout.jsx";
 import { useThemeStore } from "./store/useThemeStore.js";
