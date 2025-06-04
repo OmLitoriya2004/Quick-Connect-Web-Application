@@ -59,4 +59,16 @@ Enjoy 32 beautifully designed UI themes that let you personalize your experience
    ```bash
    git clone https://github.com/OmLitoriya2004/Quick-Connect-Web-Application.git
    cd Quick-Connect-Web-Application
+2. Install Dependencies and Run
 
+**Frontend**
+```bash
+cd frontend
+npm install
+npm run dev
+
+**Backend**
+```bash
+cd ../backend
+npm install
+npm run dev
